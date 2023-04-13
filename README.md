@@ -2,22 +2,32 @@
 
 This project is done under internship program by THE SPARK FOUNDATIONS April 2023.
 
+Hello connections,
+
+"I am pleased to share that I have completed Task-1 of my internship as a Web Development and Designing Intern at  The Sparks Foundation Undergraduate Rotational Internship Program in April 2023.  #gripapril2023 #Gripapril23 #Gripapril2023
+
+The project I worked on is a Basic Banking System website that enables customers to transfer money to each other.
 
 
-Hello!
-Title: Payment Gateway Integration for a Donation Website
 
-I completed Task 3 of my Web Development and Designing Internship at The Sparks Foundation in April 2023. As part of the Undergraduate Rotational Internship Program, I built a fully responsive donation website with payment integration using RazorPay payment gateway. The website supports payments through credit/debit card, UPI, wallet, and net banking. Additionally, the payment gateway sends an email and a receipt to the recipient's email ID.
+For this project, I utilized HTML, CSS, JavaScript, and Bootstrap technologies and developed it using Visual Studio Code.
 
-Technologies used for this project include HTML, CSS, JavaScript, and Bootstrap, while Visual Studio Code was the software used for development. I am happy to share that the project is available on Github (https://rb.gy/3k4kx
-) and can be accessed on the website (https://rb.gy/7urjo
-). I have also created a video demonstration of the project, which can be viewed on YouTube (https://rb.gy/hjmuv
-).
+Please find below the links to access the project on Github, website, and YouTube:
 
-Thank you for your time.
+ 
 
-Sincerely,
+Github Link: https://rb.gy/ggjj0
 
-Nunsavath Shravan Kumar
+Website Link: https://rb.gy/2a2si
 
-I would like to thanks The Sparks Foundation for providing me such an opportunity and letting me showcase my skills! #thesparksfoundation
+YouTube Link: https://rb.gy/9v3g5
+
+
+
+#gripapril2023 #Gripapril23 #Gripapril2023
+
+#GRIPAPRIL23 #GRIPAPRIL23 #GRIPAPRIL23
+
+kindly compare my work and sense free to depart guidelines.
+
+thanks The Sparks Foundation for the opportunity. 
